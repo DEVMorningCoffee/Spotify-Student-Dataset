@@ -1,4 +1,4 @@
-# Machine Learning Classification with Spotify and Student Datasets
+# Classification with Spotify and Student Datasets
 
 This repository contains Python code for performing classification on two different datasets: one related to Spotify tracks and the other related to students. It includes data preprocessing, model training, and evaluation with various classification models.
 
@@ -10,7 +10,7 @@ This repository contains Python code for performing classification on two differ
 
 ## Prerequisites
 
-- Jupyter and VsCode
+- Jupyter and Notebook Environment
 - Required Python packages: `pandas`, `numpy`, `scikit-learn`, and `matplotlib`,
 
 ## Usage
@@ -18,4 +18,4 @@ This repository contains Python code for performing classification on two differ
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/classification-project.git
+   git clone https://github.com/DEVMorningCoffee/Spotify-Student-Dataset
